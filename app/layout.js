@@ -1,6 +1,9 @@
 export const metadata = {
   title: "사람과성장 코칭상담심리센터 블로그 글 모음",
   description: "사람과성장 코칭상담심리센터 네이버 블로그 글 모음 - 최신 글 목록을 자동으로 보여줍니다.",
+  verification: {
+    google: "DygTh4U9GSwzJ_41exp75QLL3boNvWGo7h80IOdVkY0",
+  },
 };
 
 export default function RootLayout({ children }) {
